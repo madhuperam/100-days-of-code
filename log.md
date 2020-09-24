@@ -6,5 +6,7 @@
 
 **Thoughts** I already completed the Web Development boot camp course on Udemy, but this is the first time I am creating a website completely on my own. Feels great to start the challenge.
 
+### Day 2: Sep 24, Thursday
 
+**Today's Progress**: Tried styling the Tribute page, but could not get the list into the center. Also learnt about unorderd lists.
 
