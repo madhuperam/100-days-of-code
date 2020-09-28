@@ -10,3 +10,16 @@
 
 **Today's Progress**: Tried styling the Tribute page, but could not get the list into the center. Also learnt about unorderd lists.
 
+### Day 3: Sep 25, Friday
+
+**Today's Progress**: Started creating Survey Form, thought of creating it similar to google form.
+
+### Day 5: Sep 27, Sunday
+
+**Today's Progress**: Continued with the survey form, couldn't do much.
+
+### Day 6: Sep 28, Monday
+
+**Today's Progress**: Added all the necessary input fields for the Survey Form, need to complete styling.
+
+**Thoughts** I am able to do only the basic CSS, need to learn more in this area.
