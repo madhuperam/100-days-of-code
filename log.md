@@ -23,3 +23,7 @@
 **Today's Progress**: Added all the necessary input fields for the Survey Form, need to complete styling.
 
 **Thoughts** I am able to do only the basic CSS, need to learn more in this area.
+
+### Day 7: Sep 29, Tuesday
+
+**Today's Progress**: Started Responsive Web Design Certification in freeCodeCamp. Completed HTML and CSS parts.
