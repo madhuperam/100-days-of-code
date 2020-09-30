@@ -27,3 +27,7 @@
 ### Day 7: Sep 29, Tuesday
 
 **Today's Progress**: Started Responsive Web Design Certification in freeCodeCamp. Completed HTML and CSS parts.
+
+### Day 8: Sep 30, Wednesday
+
+**Today's Progress**: Completed half in the next part of Responsive Web Design Certification in freeCodeCamp which is Applied Visual Design.
