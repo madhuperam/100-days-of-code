@@ -38,4 +38,4 @@
 
 ### Day 12: Oct 4, Sunday
 
-**Today's Progress**: Completed Applied Accessibility and Responsive Web Design Principals of Responsive Web Design Certification in freeCodeCamp.
+**Today's Progress**: Completed Applied Accessibility and Responsive Web Design Principles of Responsive Web Design Certification in freeCodeCamp.
