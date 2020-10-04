@@ -35,3 +35,7 @@
 ### Day 11: Oct 3, Saturday
 
 **Today's Progress**: Completed half Applied Visual Design of Responsive Web Design Certification in freeCodeCamp.
+
+### Day 12: Oct 4, Sunday
+
+**Today's Progress**: Completed Applied Accessibility and Responsive Web Design Principals of Responsive Web Design Certification in freeCodeCamp.
