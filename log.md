@@ -39,3 +39,11 @@
 ### Day 12: Oct 4, Sunday
 
 **Today's Progress**: Completed Applied Accessibility and Responsive Web Design Principles of Responsive Web Design Certification in freeCodeCamp.
+
+### Day 13: Oct 5, Monday
+
+**Today's Progress**: Completed CSS Flexbox of Responsive Web Design Certification in freeCodeCamp.
+
+### Day 14: Oct 6, Tuesday
+
+**Today's Progress**: Completed CSS Grid of Responsive Web Design Certification in freeCodeCamp.
