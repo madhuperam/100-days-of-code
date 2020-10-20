@@ -21,3 +21,9 @@
 ### Day 5: Oct 19, Monday
 
 **Today's Progress**: Completed techinal documentation page project and updated in codepen. Started the next project which is building portfolio.
+
+### Day 6: Oct 20, Tuesday
+
+**Today's Progress**: Completed a small of part of protfolio, searched for others portfolios for ideas.
+
+**Thoughts** Will completed the portfolio after learning other frontend technologies and JavaScript.
